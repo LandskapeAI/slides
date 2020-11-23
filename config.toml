@@ -1,0 +1,12 @@
+baseURL = "https://landskapeai.github.io/slides/"
+languageCode = "en-us"
+title = "Landskape AI Slides"
+theme = "reveal-hugo"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
