@@ -2,6 +2,7 @@ baseURL = "https://landskapeai.github.io/slides/"
 languageCode = "en-us"
 title = "Landskape AI Slides"
 theme = "reveal-hugo"
+publishDir = "docs"
 
 [markup.goldmark.renderer]
 unsafe = true
